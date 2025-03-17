@@ -13,6 +13,8 @@ Push Button: Used for user interactions such as finalizing the bill.
 
 Buzzer: Provides audio feedback during various operations.
 
+Jumper Cables / Wires: : Flexible insulated wires with clips used to connect components and ensure proper electrical connections.
+
 Features
 Automatic item identification and billing using RFID.
 
